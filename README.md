@@ -1,5 +1,5 @@
 # SneakersPriceChecker
-Checks prices based on sku, size in US, purchase prices and bought with invoice or not. Sometimes may pop up something on stockx, just click close manually. Klekt and goat are not updated.
+Checks prices based on sku, size in US, purchase prices and if bought with invoice or not. Sometimes may pop up something on stockx, just click close manually. Klekt and goat are not updated.
 
 ## data.txt
 1. Put stockx email
